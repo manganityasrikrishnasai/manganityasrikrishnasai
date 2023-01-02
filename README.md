@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @m_krish24
 - 👀 I’m interested in coding and learning new things 
 - 🌱 I’m currently studying 3nd year b-tech student of artificial intelligence and data science
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me by email krishnasaimanga24@gmail.com
 
 <!---
