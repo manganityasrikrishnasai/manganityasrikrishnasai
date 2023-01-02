@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @manganityasrikrishnasai
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning 2nd year b-tech student of artificial intelligence and data science
+- 👋 Hi, I’m @m_krish24
+- 👀 I’m interested in coding and learning new things 
+- 🌱 I’m currently studying 3nd year b-tech student of artificial intelligence and data science
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...call or text to 9492301681 or email me to krishnasaimanga24@gmail.com
+- 📫 How to reach me by email krishnasaimanga24@gmail.com
 
 <!---
 manganityasrikrishnasai/manganityasrikrishnasai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
